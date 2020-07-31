@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/allride/project/tools/mathCalc/calcCorrelation.cpp
+iostream
+-
+vector
+-
+eigen3/Eigen/Geometry
+-
+stdlib.h
+-
+

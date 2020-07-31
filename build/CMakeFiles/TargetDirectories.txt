@@ -1,0 +1,4 @@
+/home/allride/project/tools/mathCalc/build/CMakeFiles/edit_cache.dir
+/home/allride/project/tools/mathCalc/build/CMakeFiles/rebuild_cache.dir
+/home/allride/project/tools/mathCalc/build/CMakeFiles/calc_percentile.dir
+/home/allride/project/tools/mathCalc/build/CMakeFiles/calc_correlation.dir
